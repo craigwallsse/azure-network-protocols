@@ -3,7 +3,7 @@
 </p>
 
 <h1>Managing Users in Active Directory (Azure)</h1>
-This tutorial outlines the implementation of creating and managing managing permissions on-premises using Active Directory within Azure Virtual Machine.<br />
+This tutorial outlines the implementation of creating and managing permissions on-premises using Active Directory within Azure Virtual Machine.<br />
 
 
 <h2>Environments and Technologies Used</h2>
